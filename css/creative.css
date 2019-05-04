@@ -10661,7 +10661,11 @@ hr.light {
     color: #8c43ff;
   }
 }
-
+.btn-primary{
+  background-color: Transparent;
+  background-repeat:no-repeat;
+  border: none;
+}
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 72px);

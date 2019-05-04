@@ -161,7 +161,7 @@ sup {
 }
 
 a {
-  color: #f4623a;
+  color:var(--indigo);
   text-decoration: none;
   background-color: transparent;
 }

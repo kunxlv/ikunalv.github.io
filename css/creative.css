@@ -10754,11 +10754,25 @@ header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 72px);
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(59, 59, 87, 0.8)), to(rgba(66, 66, 92, 0.8))), url("../img/bg-masthead.jpg");
-  background: linear-gradient(to bottom, rgba(66, 73, 92, 0.8) 0%, rgba(66, 69, 92, 0.8) 100%), url("../img/bg-masthead.jpg");
+  background: linear-gradient(-45deg, #EE7752,#E73C7E,#23A6D5, url("../img/bg-masthead.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
+  animation: Gradient 15s ease infinite;
+}
+
+@-webkit-keyframes Gradient{
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 50% 100%;
+  }
+100% {
+  background-position: 100% 0%;
+}
+
 }
 
 header.masthead h1 {

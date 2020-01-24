@@ -10753,9 +10753,9 @@ hr.light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 72px);
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(59, 59, 87, 0.8)), to(rgba(66, 66, 92, 0.8))), url("../img/bg-masthead.jpg");
-  background: linear-gradient(-45deg, #EE7752,#E73C7E,#23A6D5, url("../img/bg-masthead.jpg");
-  background-position: center;
+  /* background: -webkit-gradient(linear, left top, left bottom, from(rgba(59, 59, 87, 0.8)), to(rgba(66, 66, 92, 0.8))), url("../img/bg-masthead.jpg"); */
+  /* background: linear-gradient(-45deg, #EE7752,#E73C7E,#23A6D5, url("../img/bg-masthead.jpg");
+  background-position: center; */
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;

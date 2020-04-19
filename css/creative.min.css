@@ -11205,7 +11205,7 @@ footer {
     width: 2px;
     height: 100%;
     background: #fff;
-    left: -30px;
+    left: -35px;
     top: 0;
     position: absolute;
 }
@@ -11219,7 +11219,7 @@ footer {
     border: 2px solid #fff;
     position: absolute;
     background: white;
-    left: -5px;
+    left: -3px;
     top: 0;
 }
 

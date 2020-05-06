@@ -11115,10 +11115,26 @@ header.masthead {
     height: 300px;
     width: 340px;
     border-radius: 10px;
-    margin-left: 70px;
+    margin-left: 30px;
+}
+.certimg {
+    height: 300px;
+    width: 340px;
+    border-radius: 10px;
+    margin-left: 30px;
 }
 
 .certificatecard {
+    background: #8c43ff;
+    width: 100%;
+    padding: 40px;
+    color: white;
+    border: none;
+    /* background: -webkit-gradient(linear, left top, left bottom, from(rgba(66, 66, 92, 0.8)), to(rgba(66, 66, 92, 0.8)));
+   */
+    background: linear-gradient(25deg, #5bb5ff 0, #8c43ff 50%, #8c43ff 100%);
+}
+.certificatecardleft {
     background: #8c43ff;
     width: 100%;
     padding: 40px;

@@ -11132,7 +11132,7 @@ header.masthead {
     border: none;
     /* background: -webkit-gradient(linear, left top, left bottom, from(rgba(66, 66, 92, 0.8)), to(rgba(66, 66, 92, 0.8)));
    */
-    background: linear-gradient(25deg, #5bb5ff 0, #8c43ff 50%, #8c43ff 100%);
+    background: linear-gradient(25deg, #5bb5ff 0, #8c43ff 100%);
 }
 .certificatecardleft {
     background: #8c43ff;
@@ -11142,7 +11142,7 @@ header.masthead {
     border: none;
     /* background: -webkit-gradient(linear, left top, left bottom, from(rgba(66, 66, 92, 0.8)), to(rgba(66, 66, 92, 0.8)));
    */
-    background: linear-gradient(25deg, #5bb5ff 0, #8c43ff 50%, #8c43ff 100%);
+    background: linear-gradient(25deg, #5bb5ff 0, #8c43ff 100%);
 }
 
 .certcard-contents {

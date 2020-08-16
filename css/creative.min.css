@@ -11233,7 +11233,8 @@ header.masthead {
   text-align: center;
   margin: 20px;
   border-radius: 18px;
-  flex-wrap: wrap;
+  display: inline-block;
+
   padding: 20px;
   font-size: 10;
   margin-top: 48px;
@@ -11244,6 +11245,7 @@ header.masthead {
 
 .certificatecard-contents {
   margin-top: 30px;
+
   text-align: center;
   vertical-align: middle;
   color: white;

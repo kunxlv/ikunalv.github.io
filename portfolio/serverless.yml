@@ -1,0 +1,7 @@
+org: kunalv
+app: portfolio
+component: express
+name: express-starter
+
+inputs:
+  src: ./
